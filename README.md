@@ -92,8 +92,10 @@ __pycache__/
 ## 🚀 Installation & Quick Start
 
 ### Step 1: Clone the Repository
+```bash
 git clone https://github.com/shadinislam01/shadin-trade.git
 cd shadin-trade
+```
 
 ### Step 2: Install Required Dependencies
 pip install -r requirements.txt
