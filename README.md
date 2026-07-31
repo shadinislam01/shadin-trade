@@ -1,4 +1,4 @@
-# 🚀 Shadin Trade - Advanced Automated Crypto Signal System
+# 🚀 Shadin Trade - Automated Crypto Signal System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">
@@ -25,9 +25,10 @@
 ## 📸 Terminal Interface Preview
 
 ⚡ SHADIN TRADE - ADVANCED CHART ANALYZER ACTIVE
+
 📡 Feed Status          : Authenticated API (Real-Time Live Feed)
 📋 Monitored Pairs      : BTCUSDT, ETHUSDT, SOLUSDT
-============================================================
+
 
 --- Analyzing Multi-Candle Charts [2026-07-31 19:00:00] ---
 [19:00:02] BTCUSDT  | Price: $64,500.00 | RSI: 42.15 | MACD: 12.40
