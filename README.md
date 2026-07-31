@@ -98,11 +98,14 @@ cd shadin-trade
 ```
 
 ### Step 2: Install Required Dependencies
+```bash
 pip install -r requirements.txt
+```
 
 ### Step 3: Run the System
+```bash
 python3 app.py
-
+```
 ---
 
 ## ⚙️ Interactive First-Time Setup Wizard
@@ -142,17 +145,25 @@ git push -u origin main
 To keep Shadin Trade operational continuously in the background on Linux/VPS instances even after terminating your terminal session:
 
 ### Option 1: Using nohup (Easiest)
-nohup python3 app.py &
+```bash
+nohup python3 app.py
+``` 
 
 To inspect real-time background execution logs:
+```bash
 tail -f nohup.out
+```
 
 To terminate the background process:
+```bash
 pkill -f app.py
+```
 
 ### Option 2: Using screen (Recommended)
 screen -S shadin_trade
+```bash
 python3 app.py
+```
 # Detach session: Press Ctrl + A, then D
 # Re-attach session anytime: screen -r shadin_trade
 
