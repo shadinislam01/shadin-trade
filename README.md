@@ -24,12 +24,6 @@
 
 ## 📸 Terminal Interface Preview
 
-============================================================
-      "
-           S H A D I N   
-           T R A D E   S Y S T E M            
-============================================================
-
 ⚡ SHADIN TRADE - ADVANCED CHART ANALYZER ACTIVE
 📡 Feed Status          : Authenticated API (Real-Time Live Feed)
 📋 Monitored Pairs      : BTCUSDT, ETHUSDT, SOLUSDT
